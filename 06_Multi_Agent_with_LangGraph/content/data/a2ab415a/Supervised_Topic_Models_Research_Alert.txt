@@ -1,0 +1,8 @@
+1. Introduction to Supervised Topic Models
+2. Overview of sLDA and its purpose
+3. Importance of understanding themes in text data
+4. Prediction capabilities of sLDA
+5. Parameter estimation using maximum-likelihood
+6. Real-world applications of sLDA
+7. Implications across industries
+8. Call to action for further reading
